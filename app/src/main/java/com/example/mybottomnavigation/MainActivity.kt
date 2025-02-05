@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         //  AppBarConfiguration berisi kumpulan id yang ada di dalam menu BottomNavigation
         val appBarConfiguration = AppBarConfiguration(
             setOf(
-                R.id.navigation_home, R.id.navigation_dashboard, R.id.navigation_notifications, R.id.profileFragment
+                R.id.navigation_home, R.id.navigation_dashboard, R.id.navigation_notifications, R.id.navigation_profile
             )
         )
 
